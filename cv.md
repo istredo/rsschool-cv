@@ -51,6 +51,7 @@ let findMin = function (nums) {
 ##### Higher education
 * Moscow State Industrial University
 	+ Automotive Faculty
+	
 ##### Online learning:
 * Interactive course JavaScript for beginners (Udemy)
 * Video course "Web development for beginners" 
