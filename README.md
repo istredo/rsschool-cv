@@ -1,1 +1,1 @@
-## [rsschool-cv](https://istredo.github.io/rsschool-cv/cv)
+## https://istredo.github.io/rsschool-cv/cv
