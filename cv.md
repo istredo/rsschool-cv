@@ -23,6 +23,7 @@ My goal is to start a career as FrontEnd developer
 * [GitHub page](https://github.com/istredo)
 
 ```
+
 // @param {number[]} nums
 let findMin = function (nums) {
 	let [left, right] = [0, nums.length - 1];
@@ -45,7 +46,7 @@ let findMin = function (nums) {
    return nums[left];
 };
 ```
-        
+      
 # Education
 ##### Higher education
 * Moscow State Industrial University
