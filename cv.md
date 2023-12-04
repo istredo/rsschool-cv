@@ -8,8 +8,8 @@
 * Telegram: [@istredo](https://t.me/istredo)
 
 # Summary
-I'm currently lerning JS and making small projects. I want to improve my skills and get the job as developer asap.
-My goal is to start a career as FrontEnd developer
+I'm currently lerning JS and making small projects. I want to improve my skills and get the job as developer.
+My goal is to start a career as FrontEnd developer.
 
 # Skills
 * HTML/CSS
